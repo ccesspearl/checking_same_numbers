@@ -12,8 +12,7 @@ def check(given_list):
 # Inside the function, use the return syntax 
     return given_list[0] == given_list[-1]
 
-# Create a variable to check the list 
-    
+# Create a variable for given list and check it 
+result = check([1,2,3,4,1])
+
 # Print the result 
-
-
