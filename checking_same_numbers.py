@@ -10,7 +10,10 @@ def check(given_list):
     print("Given list:", given_list)
 
 # Inside the function, use the return syntax 
+    return given_list[0] == given_list[-1]
+
 # Create a variable to check the list 
+    
 # Print the result 
 
 
