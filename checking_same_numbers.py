@@ -17,3 +17,9 @@ result = check([1,2,3,4,1])
 
 # Print the result 
 print("result is", result)
+
+# Create a variable for given list and check it 
+result2 = check([3,6,8,0,1])
+
+# Print the result 
+print("result is", result2)
