@@ -16,3 +16,4 @@ def check(given_list):
 result = check([1,2,3,4,1])
 
 # Print the result 
+print("result is", result)
